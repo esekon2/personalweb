@@ -37,7 +37,7 @@ body{
 .navbar a{
     font-size: 18px;
     text-decoration: none;
-    color: white;
+    color: black;
     font-weight: 500;
     margin-left: 35px;
     transition: .3s;
